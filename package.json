@@ -1,0 +1,21 @@
+{
+  "name": "coppel",
+  "version": "0.0.1",
+  "description": "Este es un proyecto de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "2.6.10"
+  },
+  "devDependencies": {
+    "babel": "6.23.0",
+    "jest": "24.7.1"
+  }
+}
